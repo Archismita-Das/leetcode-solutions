@@ -76,3 +76,15 @@ This repository helps in:
 📄 License
 
 This project is for educational and portfolio purposes. Feel free to explore, learn, and contribute.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
