@@ -85,6 +85,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,4 +95,5 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
