@@ -82,6 +82,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -112,6 +113,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -126,4 +128,8 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
