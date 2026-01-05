@@ -90,6 +90,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0053-maximum-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
+| [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
