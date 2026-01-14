@@ -136,6 +136,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -201,6 +202,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
