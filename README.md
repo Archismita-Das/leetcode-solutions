@@ -16,7 +16,7 @@ GitHub
 
 To view or test a solution:
 
-Navigate into the problem’s folder (e.g., 1-two-sum/).
+Navigate into the problem’s folder.
 
 Open the Java file (.java) containing the solution.
 
