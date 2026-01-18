@@ -88,6 +88,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -148,6 +149,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
 ## Trie
 |  |
@@ -217,4 +219,5 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
