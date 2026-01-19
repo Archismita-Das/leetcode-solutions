@@ -90,6 +90,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0053-maximum-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -159,6 +160,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -220,4 +222,8 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | ------- |
 | [0022-generate-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
