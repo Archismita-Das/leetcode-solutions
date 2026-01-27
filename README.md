@@ -95,6 +95,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -106,6 +107,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0142-linked-list-cycle-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -145,6 +147,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | ------- |
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Greedy
