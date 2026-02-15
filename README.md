@@ -96,6 +96,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0128-longest-consecutive-sequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0033-search-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
