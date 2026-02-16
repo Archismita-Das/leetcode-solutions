@@ -82,6 +82,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -106,6 +107,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -161,6 +163,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
