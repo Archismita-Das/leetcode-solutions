@@ -158,6 +158,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [1903-largest-odd-number-in-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Greedy
@@ -171,6 +172,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0078-subsets](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Trie
 |  |
 | ------- |
