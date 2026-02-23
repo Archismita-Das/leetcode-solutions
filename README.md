@@ -100,6 +100,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0152-maximum-product-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0070-climbing-stairs](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## String
