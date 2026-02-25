@@ -142,6 +142,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0022-generate-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0198-house-robber) |
@@ -155,6 +156,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
