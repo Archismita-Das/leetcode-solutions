@@ -201,6 +201,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | ------- |
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -281,4 +282,16 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
