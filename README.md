@@ -286,12 +286,19 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
