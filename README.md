@@ -169,6 +169,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0070-climbing-stairs) |
