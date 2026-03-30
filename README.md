@@ -102,6 +102,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -139,6 +140,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | ------- |
 | [0053-maximum-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -211,6 +213,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -225,6 +228,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0015-3sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -239,6 +243,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
