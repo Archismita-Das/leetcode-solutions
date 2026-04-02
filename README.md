@@ -92,6 +92,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0035-search-insert-position](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0078-subsets) |
@@ -150,6 +151,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0062-unique-paths) |
@@ -193,6 +195,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
