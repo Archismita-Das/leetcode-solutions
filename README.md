@@ -112,6 +112,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0216-combination-sum-iii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Two Pointers
@@ -239,6 +240,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0169-majority-element](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -326,4 +328,8 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0062-unique-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
