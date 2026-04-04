@@ -113,6 +113,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0217-contains-duplicate](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Two Pointers
@@ -190,6 +191,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0070-climbing-stairs](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1903-largest-odd-number-in-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Greedy
@@ -226,6 +228,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
@@ -332,4 +335,12 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
