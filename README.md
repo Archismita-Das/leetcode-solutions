@@ -179,6 +179,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
