@@ -139,6 +139,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0151-reverse-words-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -173,6 +174,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0198-house-robber](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## String
 |  |
@@ -191,6 +193,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0151-reverse-words-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
