@@ -96,6 +96,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0045-jump-game-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -183,6 +184,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0022-generate-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -363,4 +365,8 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
