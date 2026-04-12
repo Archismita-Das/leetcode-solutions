@@ -192,6 +192,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0014-longest-common-prefix](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0091-decode-ways) |
@@ -248,6 +249,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0128-longest-consecutive-sequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -386,5 +388,6 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
