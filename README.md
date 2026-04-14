@@ -90,6 +90,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0033-search-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -251,6 +252,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0012-integer-to-roman](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
@@ -393,4 +395,8 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
