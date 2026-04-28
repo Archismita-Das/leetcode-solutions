@@ -216,6 +216,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0125-valid-palindrome](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -237,6 +238,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0150-evaluate-reverse-polish-notation](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0371-sum-of-two-integers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1903-largest-odd-number-in-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -331,6 +333,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0071-simplify-path](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -351,6 +354,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | ------- |
 | [0050-powx-n](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Merge Sort
