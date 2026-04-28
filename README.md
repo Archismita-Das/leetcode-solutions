@@ -327,6 +327,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0020-valid-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -405,6 +406,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
