@@ -19,14 +19,12 @@ class Solution {
 
         HashMap<Node, Node> map = new HashMap<>();
 
-        // Step 1: Create all nodes
         Node curr = head;
         while (curr != null) {
             map.put(curr, new Node(curr.val));
             curr = curr.next;
         }
 
-        // Step 2: Assign next & random
         curr = head;
         while (curr != null) {
             Node copy = map.get(curr);
