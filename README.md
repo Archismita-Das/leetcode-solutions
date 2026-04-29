@@ -288,6 +288,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0138-copy-list-with-random-pointer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -355,6 +356,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0138-copy-list-with-random-pointer](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -429,6 +431,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -461,4 +464,8 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0054-spiral-matrix](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0289-game-of-life) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
