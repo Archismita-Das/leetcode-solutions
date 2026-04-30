@@ -404,11 +404,13 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Graph Theory
@@ -468,4 +470,12 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
