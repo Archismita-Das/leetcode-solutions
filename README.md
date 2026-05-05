@@ -172,6 +172,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,6 +271,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0136-single-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Trie
@@ -506,6 +508,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0124-binary-tree-maximum-path-sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -520,6 +523,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0124-binary-tree-maximum-path-sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
