@@ -427,6 +427,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -510,6 +511,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0173-binary-search-tree-iterator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -525,6 +527,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0173-binary-search-tree-iterator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
