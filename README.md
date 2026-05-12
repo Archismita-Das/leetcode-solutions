@@ -137,6 +137,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0704-binary-search](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +177,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0209-minimum-size-subarray-sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
