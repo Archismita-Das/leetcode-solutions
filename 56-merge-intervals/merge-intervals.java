@@ -2,25 +2,27 @@ import java.util.*;
 
 class Solution {
     public int[][] merge(int[][] intervals) {
-        // Step 1: Sort by start time
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+    Arrays.sort(intervals, Comparator.comparingInt(a-> a[0]));
 
-        List<int[]> result = new ArrayList<>();
+    int currentStart = intervals[0][0];
+    int currentEnd = intervals[0][1];
 
-        for (int[] interval : intervals) {
-            // If result is empty OR no overlap
-            if (result.isEmpty() || result.get(result.size() - 1)[1] < interval[0]) {
-                result.add(interval);
-            } 
-            else {
-                // Merge intervals
-                result.get(result.size() - 1)[1] = Math.max(
-                    result.get(result.size() - 1)[1],
-                    interval[1]
-                );
-            }
+    ArrayList<int[]>MergedInterval = new ArrayList<>();
+
+    for(int i=0; i<intervals.length;i++){
+        int NextStart = intervals[i][0];
+        int NextEnd =intervals[i][1];
+
+        if(currentEnd < NextStart){
+            MergedInterval.add(new int[] {currentStart, currentEnd});
+            currentStart = NextStart;
+             currentEnd = NextEnd;
         }
-
-        return result.toArray(new int[result.size()][]);
+        else{
+            currentEnd = Math.max(currentEnd, NextEnd);
+        }
+    }
+     MergedInterval.add(new int[] {currentStart, currentEnd});
+     return MergedInterval.toArray(new int[MergedInterval.size()][]);
     }
 }
