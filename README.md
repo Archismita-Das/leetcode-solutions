@@ -132,6 +132,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0228-summary-ranges](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -160,6 +161,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0189-rotate-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -173,6 +175,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,6 +275,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0190-reverse-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Trie
