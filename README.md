@@ -138,6 +138,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0704-binary-search) |
+| [0941-valid-mountain-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
