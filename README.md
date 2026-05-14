@@ -138,6 +138,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0941-valid-mountain-array](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
@@ -359,6 +360,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0173-binary-search-tree-iterator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -492,6 +494,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0054-spiral-matrix](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0289-game-of-life) |
+| [0735-asteroid-collision](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Sliding Window
 |  |
 | ------- |
