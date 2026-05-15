@@ -4,17 +4,16 @@ class Solution {
             return 0;
         }
         int min = prices[0];
-        int maxP = 0;
+        int maxPrice = 0;
 
-        for(int p : prices){
+        for(int p:prices){
             if(p<min){
                 min = p;
             }
             else{
-                maxP = Math.max(maxP, p-min);
+                maxPrice = Math.max(maxPrice, p-min);
             }
-
         }
-        return maxP;
+        return maxPrice;
     }
 }
