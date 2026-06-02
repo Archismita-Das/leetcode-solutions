@@ -137,6 +137,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0287-find-the-duplicate-number](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0455-assign-cookies](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -244,6 +245,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0290-word-pattern](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Archismita-Das/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -427,6 +429,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -454,6 +457,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0226-invert-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -470,6 +474,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | [0200-number-of-islands](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Graph Theory
@@ -477,6 +482,7 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 | ------- |
 | [0133-clone-graph](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
@@ -591,4 +597,8 @@ This project is for educational and portfolio purposes. Feel free to explore, le
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Archismita-Das/leetcode-solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
